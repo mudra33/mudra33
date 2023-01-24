@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working as a full stack developer at **Curl Analytics**
 
-- 🌱 I’m currently learning **React Js , MERN Stack , Java , Next JS , Data Structures and Algorithms**
+- 🌱 I’m currently working with **React Js , MERN Stack , C++ ,Next JS , Java,MongoDB ,MYSQL, Typescript, Javascript , Data Structures and Algorithms**
 
-- 👯 I have created Projects such as **Booking Application , Chat Application , PlayPromo Game using technologies Mern stack , next Js.**
+- 👯 I have created Projects such as **Hotel Booking App , Unified-club-app , Chat Application , PlayPromo Game using technologies Mern stack , next Js.**
 
-- 👨‍💻 All of my projects are available at [https://chimerical-longma-d68ae8.netlify.app/](https://chimerical-longma-d68ae8.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mudraportfolio.netlify.app/](https://mudraportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- 📫 How to reach me **mudra.s@ahduni.edu.in**
+- 📫 How to reach me **mudra.s1947@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/107TQwvOS7BJU-gva2mxBG08GS1OQA3rm/view?usp=sharing](https://drive.google.com/file/d/107TQwvOS7BJU-gva2mxBG08GS1OQA3rm/view?usp=sharing)
 
